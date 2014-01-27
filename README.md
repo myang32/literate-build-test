@@ -14,3 +14,9 @@ To build the this run:
 
     echo 'hello world'
 
+# Test 
+
+To test it run:
+
+    echo 'hello test'
+
